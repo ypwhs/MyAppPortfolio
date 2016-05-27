@@ -8,4 +8,15 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="MyButton" parent="@android:style/MediaButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_marginTop">@dimen/activity_vertical_margin</item>
+        <item name='android:textColor'>@color/textColor</item>
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="android:minWidth">@dimen/button_width</item>
+        <item name="android:onClick">click</item>
+    </style>
+
 </resources>

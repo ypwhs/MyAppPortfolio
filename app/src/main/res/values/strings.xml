@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MyAppPortfolio</string>
+    <string name="nnplayground">NNPlayground</string>
+    <string name="raspberry_pi_ncamera">Raspberry Pi\nCamera</string>
+    <string name="instabtbu">instabtbu</string>
+    <string name="laughornot">LaughOrNot</string>
+    <string name="acceleration">Acceleration</string>
+    <string name="arduino">Arduino</string>
 </resources>
